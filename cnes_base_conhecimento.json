@@ -1,0 +1,50 @@
+{
+  "introducao": {
+    "perguntas_chave": [
+      "O que é o CNES?",
+      "Para que serve o CNES?",
+      "O CNES é obrigatório?"
+    ],
+    "resposta": "O Cadastro Nacional de Estabelecimentos de Saúde (CNES) é o sistema oficial do Ministério da Saúde para registro de todos os estabelecimentos de saúde do Brasil, públicos ou privados. Ele é essencial para a gestão do SUS, permitindo controle, planejamento e avaliação dos serviços. É obrigatório para qualquer unidade que atue na área da saúde."
+  },
+  "criterios_minimos": {
+    "perguntas_chave": [
+      "Quais são os critérios mínimos para cadastrar um CNES?",
+      "Que documentos preciso para obter CNES?",
+      "Quem pode se cadastrar no CNES?"
+    ],
+    "resposta": "Os critérios mínimos incluem: possuir CNPJ ativo, endereço válido, responsável técnico com registro em conselho profissional, alvará sanitário ou licença, planta baixa ou croqui do local, e documentação de funcionamento do estabelecimento conforme sua categoria."
+  },
+  "processo_cadastramento": {
+    "perguntas_chave": [
+      "Como faço o cadastro no CNES?",
+      "Onde faço o cadastro do CNES em Niterói?",
+      "Qual é o processo de cadastramento?"
+    ],
+    "resposta": "Em geral, o cadastramento é feito presencialmente na Secretaria Municipal de Saúde. Para Niterói, recomenda-se agendar atendimento e apresentar a documentação exigida. O processo inclui o preenchimento dos formulários específicos e entrega dos documentos obrigatórios. Para estabelecimentos não SUS, como em clínicas privadas, também é necessário seguir as orientações locais da secretaria."
+  },
+  "atualizacao_alteracao": {
+    "perguntas_chave": [
+      "Como atualizo os dados do CNES?",
+      "Como faço uma alteração cadastral no CNES?",
+      "Posso mudar o responsável técnico ou endereço?"
+    ],
+    "resposta": "Alterações cadastrais devem ser feitas junto à Secretaria Municipal de Saúde. Para mudanças como endereço, serviços ofertados, responsável técnico ou estrutura, é necessário apresentar a nova documentação e preencher o formulário de atualização."
+  },
+  "desativacao": {
+    "perguntas_chave": [
+      "Como cancelo meu CNES?",
+      "O que é necessário para desativar um cadastro CNES?",
+      "Desativar CNES dá problema?"
+    ],
+    "resposta": "A desativação deve ser solicitada na Secretaria Municipal de Saúde com justificativa e documentos comprobatórios. O processo é analisado pela coordenação do CNES. Após aprovação, o cadastro é inativado no sistema nacional."
+  },
+  "ferramentas_acesso": {
+    "perguntas_chave": [
+      "Onde consulto meu CNES?",
+      "Existe site para ver CNES?",
+      "Como saber o número CNES do meu estabelecimento?"
+    ],
+    "resposta": "As consultas podem ser feitas no site oficial: https://cnes.datasus.gov.br ou pelo CNES Web. Você pode buscar pelo nome do estabelecimento, CNPJ ou número CNES. Algumas prefeituras também oferecem sistemas próprios de consulta."
+  }
+}
